@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zbloss&theme=cobalt&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@block-ops.eth)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zachary-bloss)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](@block-ops.eth)
